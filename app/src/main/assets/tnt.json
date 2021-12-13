@@ -1,0 +1,346 @@
+{
+  "PromoCodes": [
+    {
+      "Id": 79,
+      "LoadPackage": "GaanSurf10",
+      "Keyword": "WGAANSURF10",
+      "WTLKeyword": "GAANSURF10",
+      "Denom": 10,
+      "Type": "TNT",
+      "Description": "50MB of internet access + 100MB of YouTube, Mobile Legends, and Facebook for 1 day"
+    },
+    {
+      "Id": 80,
+      "LoadPackage": "GaanSurf15",
+      "Keyword": "WGAANSURF15",
+      "WTLKeyword": "GAANSURF15",
+      "Denom": 15,
+      "Type": "TNT",
+      "Description": "100MB of internet access + 100MB of YouTube, Mobile Legends, and Facebook for 2 days"
+    },
+    {
+      "Id": 81,
+      "LoadPackage": "GaanSurf20",
+      "Keyword": "WGAANSURF20",
+      "WTLKeyword": "GAANSURF20",
+      "Denom": 20,
+      "Type": "TNT",
+      "Description": "200MB of internet access + 100MB of YouTube, Mobile Legends, and Facebook for 3 days"
+    },
+    {
+      "Id": 82,
+      "LoadPackage": "GaanSurf30",
+      "Keyword": "WGAANSURF30",
+      "WTLKeyword": "GAANSURF30",
+      "Denom": 30,
+      "Type": "TNT",
+      "Description": "300MB of internet access + 200MB of YouTube, Mobile Legends, and Facebook for 5 days"
+    },
+    {
+      "Id": 87,
+      "LoadPackage": "SMARTload 5",
+      "Keyword": "W5",
+      "WTLKeyword": "5",
+      "Denom": 5,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 88,
+      "LoadPackage": "SMARTLoad 10",
+      "Keyword": "WLOAD10",
+      "WTLKeyword": "10",
+      "Denom": 10,
+      "Type": "TNT",
+      "Description": ""
+    },
+    {
+      "Id": 90,
+      "LoadPackage": "SMARTLoad 15",
+      "Keyword": "W15",
+      "WTLKeyword": "15",
+      "Denom": 15,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 91,
+      "LoadPackage": "SMARTLoad 20",
+      "Keyword": "WP20",
+      "WTLKeyword": "20",
+      "Denom": 20,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 92,
+      "LoadPackage": "SMARTLoad Economy (30.00)",
+      "Keyword": "W30",
+      "WTLKeyword": "30",
+      "Denom": 30,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 93,
+      "LoadPackage": "SMARTLoad 50",
+      "Keyword": "W50",
+      "WTLKeyword": "50",
+      "Denom": 50,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 94,
+      "LoadPackage": "SMARTLoad Regular (60.00)",
+      "Keyword": "W60",
+      "WTLKeyword": "60",
+      "Denom": 60,
+      "Type": "TNT",
+      "Description": "validity  365 days"
+    },
+    {
+      "Id": 95,
+      "LoadPackage": "SMARTLoad 100",
+      "Keyword": "W100",
+      "WTLKeyword": "100",
+      "Denom": 100,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 96,
+      "LoadPackage": "SMARTLoad Extra (115.00)",
+      "Keyword": "W115",
+      "WTLKeyword": "115",
+      "Denom": 115,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 97,
+      "LoadPackage": "SMARTLoad 200",
+      "Keyword": "W200",
+      "WTLKeyword": "200",
+      "Denom": 200,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 98,
+      "LoadPackage": "SMARTLoad 300",
+      "Keyword": "W300",
+      "WTLKeyword": "300",
+      "Denom": 300,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 99,
+      "LoadPackage": "SMARTLoad 500",
+      "Keyword": "W500",
+      "WTLKeyword": "500",
+      "Denom": 500,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 100,
+      "LoadPackage": "SMARTLoad 1000",
+      "Keyword": "W1000",
+      "WTLKeyword": "1000",
+      "Denom": 1000,
+      "Type": "TNT",
+      "Description": "validity 365 days"
+    },
+    {
+      "Id": 101,
+      "LoadPackage": "Super Combo 20",
+      "Keyword": "WSC20",
+      "WTLKeyword": "SC20",
+      "Denom": 20,
+      "Type": "TNT",
+      "Description": "Unlitext to TNT/Smart/Sun + Unlicall to TNT/Smart/Sun + 50MB valid for 2 days"
+    },
+    {
+      "Id": 102,
+      "LoadPackage": "TNT Unlitalk Plus",
+      "Keyword": "WT100",
+      "WTLKeyword": "T100",
+      "Denom": 100,
+      "Type": "TNT",
+      "Description": "Unlitext to all + Unli calls to TNT/Smart/Sun + 100MB of Tropa Apps, valid for 7 days"
+    },
+    {
+      "Id": 105,
+      "LoadPackage": "Unli Talk Plus 20",
+      "Keyword": "WT20",
+      "WTLKeyword": "T20",
+      "Denom": 20,
+      "Type": "TNT",
+      "Description": "Unlitext to all + Unli calls to TNT/Smart/Sun + 100MB of Tropa Apps, valid for 1 day"
+    },
+    {
+      "Id": 110,
+      "LoadPackage": "UTP15",
+      "Keyword": "WGUP15",
+      "WTLKeyword": "UTP15",
+      "Denom": 15,
+      "Type": "TNT",
+      "Description": "Unlitxt & unlicall to TNT/Smart/Sun + 50 texts to other networks valid for 2 days"
+    },
+    {
+      "Id": 112,
+      "LoadPackage": "UTP150",
+      "Keyword": "WU150",
+      "WTLKeyword": "UTP150",
+      "Denom": 150,
+      "Type": "TNT",
+      "Description": "Unlitext to TNT/Smart/Sun + 150mins calls to TNT/Smart/Sun + 150 texts to other networks, valid for 30 days"
+    },
+    {
+      "Id": 114,
+      "LoadPackage": "Facebook 10",
+      "Keyword": "WFACEBOOK10",
+      "WTLKeyword": "FB10",
+      "Denom": 10,
+      "Type": "TNT",
+      "Description": "Facebook valid for 3 days"
+    },
+    {
+      "Id": 120,
+      "LoadPackage": "All Text 10",
+      "Keyword": "W10",
+      "WTLKeyword": "A10",
+      "Denom": 10,
+      "Type": "TNT",
+      "Description": "75 text to all + 6 MB open-access for 1 day"
+    },
+    {
+      "Id": 121,
+      "LoadPackage": "Giga Surf 99 (TNT)",
+      "Keyword": "WTNTGIGA99",
+      "WTLKeyword": "TNTGIGA99",
+      "Denom": 99,
+      "Type": "TNT",
+      "Description": "2GB + 1GB EVERY DAY for YouTube, iflix, NBA, Cignal & iWant for 7 days."
+    },
+    {
+      "Id": 122,
+      "LoadPackage": "Panalo Combo 30 (TNT)",
+      "Keyword": "WG30",
+      "WTLKeyword": "PCombo30",
+      "Denom": 30,
+      "Type": "TNT",
+      "Description": "Unlitext to all + 60 mins calls to TNT/Smart/Sun + 200MB valid for 3 days"
+    },
+    {
+      "Id": 127,
+      "LoadPackage": "Facebook 10 (TNT)",
+      "Keyword": "WFACEBOOK10",
+      "WTLKeyword": "FB10",
+      "Denom": 10,
+      "Type": "TNT",
+      "Description": "200 MB/day for FB valid for 3 days"
+    },
+    {
+      "Id": 128,
+      "LoadPackage": "Giga Surf 50 (TNT)",
+      "Keyword": "WTNTGIGA50",
+      "WTLKeyword": "TNTGIGA50",
+      "Denom": 50,
+      "Type": "TNT",
+      "Description": "1GB + 1GB EVERY DAY for YouTube, iflix, NBA, Cignal & iWant + UNLITEXT to ALL for 3 days."
+    },
+    {
+      "Id": 129,
+      "LoadPackage": "Giga Surf 299 (TNT)",
+      "Keyword": "WTNTGIGA299",
+      "WTLKeyword": "TNTGIGA299",
+      "Denom": 299,
+      "Type": "TNT",
+      "Description": "2GB + 1GB EVERY DAY for YouTube, iflix, NBA, Cignal & iWant for 30 days."
+    },
+    {
+      "Id": 130,
+      "LoadPackage": "Giga Surf 399 (TNT)",
+      "Keyword": "WTNTGIGA399",
+      "WTLKeyword": "TNTGIGA399",
+      "Denom": 399,
+      "Type": "TNT",
+      "Description": "6GB + 1GB EVERY DAY for YouTube, iflix, NBA, Cignal & iWant for 30 days."
+    },
+    {
+      "Id": 131,
+      "LoadPackage": "Giga Surf 499 (TNT)",
+      "Keyword": "WTNTGIGA499",
+      "WTLKeyword": "TNTGIGA499",
+      "Denom": 499,
+      "Type": "TNT",
+      "Description": "8GB + 1GB EVERY DAY for YouTube, iflix, NBA, Cignal & iWant for 30 days."
+    },
+    {
+      "Id": 132,
+      "LoadPackage": "Surf Saya 20 (TNT)",
+      "Keyword": "WSAYA20",
+      "WTLKeyword": "SAYA20",
+      "Denom": 20,
+      "Type": "TNT",
+      "Description": "100MB + 100MB FB EVERY DAY + UNLICALL to TNT, Smart & Sun + UNLITEXT to ALL for 2 days."
+    },
+    {
+      "Id": 133,
+      "LoadPackage": "Surf Saya 30 (TNT)",
+      "Keyword": "WSAYA30",
+      "WTLKeyword": "SAYA30",
+      "Denom": 30,
+      "Type": "TNT",
+      "Description": "300MB + 100MB FB EVERY DAY +  UNLICALL to TNT, Smart & Sun + UNLITEXT to ALL for 3 days."
+    },
+    {
+      "Id": 134,
+      "LoadPackage": "Surf Saya 99 (TNT)",
+      "Keyword": "SAYA99",
+      "WTLKeyword": "SAYA99",
+      "Denom": 99,
+      "Type": "TNT",
+      "Description": "1.5GB + 100MB FB EVERY DAY + UNLICALL to TNT, Smart & Sun + UNLITEXT to ALL for 7 days."
+    },
+    {
+      "Id": 362,
+      "LoadPackage": "Surf Saya 199 (TNT)",
+      "Keyword": "WSAYA199",
+      "WTLKeyword": "SAYA199",
+      "Denom": 199,
+      "Type": "TNT",
+      "Description": "2 GB + 200MB FB EVERY DAY + UNLICALL to TNT, Smart & Sun + UNLITEXT to ALL for 30 days."
+    },
+    {
+      "Id": 363,
+      "LoadPackage": "GIGA VIDEO 50",
+      "Keyword": "WGVD50",
+      "WTLKeyword": "GVD50",
+      "Denom": 50,
+      "Type": "TNT",
+      "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant, Cignal Play + 1GB open access data +  UNLI ALLNET Texts valid for  3 days"
+    },
+    {
+      "Id": 364,
+      "LoadPackage": "GIGA VIDEO 99",
+      "Keyword": "GVD99",
+      "WTLKeyword": "WGVD99",
+      "Denom": 99,
+      "Type": "TNT",
+      "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant, Cignal Play + 2GB open access data valid for 7 days"
+    },
+    {
+      "Id": 375,
+      "LoadPackage": "GIGA VIDEO 299",
+      "Keyword": "WGVD299",
+      "WTLKeyword": "GVD299",
+      "Denom": 299,
+      "Type": "TNT",
+      "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant, Cignal Play + 4GB open access data  valid for 30 days"
+    }
+  ]
+}

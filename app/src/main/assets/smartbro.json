@@ -1,0 +1,212 @@
+{
+  "Result": "Success",
+  "PromoCodes": [
+    {
+      "Id": 272,
+      "LoadPackage": "Giga Surf 50 (Bro) WEB",
+      "Keyword": "WBROBIGB50",
+      "WTLKeyword": "GS50",
+      "Denom": 50,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 273,
+      "LoadPackage": "Giga Surf 99 (Bro) WEB",
+      "Keyword": "WBROBIGB99",
+      "WTLKeyword": "GS99",
+      "Denom": 99,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 274,
+      "LoadPackage": "Giga Surf 299 (Bro) WEB",
+      "Keyword": "WBROBIGB299",
+      "WTLKeyword": "GS299",
+      "Denom": 299,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 275,
+      "LoadPackage": "Giga Surf 799 (Bro) WEB",
+      "Keyword": "WBROBIGB799",
+      "WTLKeyword": "GS799",
+      "Denom": 799,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 292,
+      "LoadPackage": "Bro Surfmax Plus 50",
+      "Keyword": "WBROSMPLUS50",
+      "WTLKeyword": "BROSP50",
+      "Denom": 50,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 293,
+      "LoadPackage": "Bro Surfmax Plus 100",
+      "Keyword": "WBROSMPLUS100",
+      "WTLKeyword": "BROSP100",
+      "Denom": 100,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 294,
+      "LoadPackage": "Bro Surfmax Plus 350",
+      "Keyword": "WBROSMPLUS350",
+      "WTLKeyword": "BROSP350",
+      "Denom": 350,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 295,
+      "LoadPackage": "Bro Surfmax Plus 600",
+      "Keyword": "WBROSMPLUS600",
+      "WTLKeyword": "BROSP600",
+      "Denom": 600,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 296,
+      "LoadPackage": "Bro Surfmax Plus 995",
+      "Keyword": "WBROSMPLUS995",
+      "WTLKeyword": "BROSP995",
+      "Denom": 995,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 298,
+      "LoadPackage": "SURFMAX 85 (Bro) WEB",
+      "Keyword": "SURFMAX85",
+      "WTLKeyword": "SM85",
+      "Denom": 85,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 300,
+      "LoadPackage": "SURFMAX 250 (Bro) WEB",
+      "Keyword": "SURFMAX250",
+      "WTLKeyword": "SM250",
+      "Denom": 250,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 301,
+      "LoadPackage": "SURFMAX 500 (Bro) WEB",
+      "Keyword": "SURFMAX500",
+      "WTLKeyword": "SM500",
+      "Denom": 500,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 302,
+      "LoadPackage": "SURFMAX 995 (Bro) WEB",
+      "Keyword": "SURFMAX995",
+      "WTLKeyword": "SM995",
+      "Denom": 995,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 309,
+      "LoadPackage": "Home Boost 50 (Bro)",
+      "Keyword": "WBOOST50",
+      "WTLKeyword": null,
+      "Denom": 50,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 310,
+      "LoadPackage": "Home Boost 100 (Bro)",
+      "Keyword": "WBOOST100",
+      "WTLKeyword": null,
+      "Denom": 100,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 311,
+      "LoadPackage": "Home Boost 349 (Bro)",
+      "Keyword": "WBOOST349",
+      "WTLKeyword": null,
+      "Denom": 349,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 312,
+      "LoadPackage": "Home Boost 599 (Bro)",
+      "Keyword": "WBOOST599",
+      "WTLKeyword": "WBOOST599",
+      "Denom": 599,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 313,
+      "LoadPackage": "Home Boost 15 (Bro)",
+      "Keyword": "WBOOST15",
+      "WTLKeyword": null,
+      "Denom": 15,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 314,
+      "LoadPackage": "Home Boost 199 (Bro)",
+      "Keyword": "WBOOST199",
+      "WTLKeyword": "WBOOST199",
+      "Denom": 199,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 318,
+      "LoadPackage": "Home Boost 999 (Bro)",
+      "Keyword": "WBOOST999",
+      "WTLKeyword": "WBOOST999",
+      "Denom": 999,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 372,
+      "LoadPackage": "GIGA VIDEO 50",
+      "Keyword": "WGVD50",
+      "WTLKeyword": "GVD50",
+      "Denom": 50,
+      "Type": "Smart Bro",
+      "Description": null
+    },
+    {
+      "Id": 373,
+      "LoadPackage": "GIGA VIDEO 99",
+      "Keyword": "WGVD99",
+      "WTLKeyword": "GVD99",
+      "Denom": 99,
+      "Type": "Smart Bro",
+      "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant,  Cignal Play, 2 GB Open Access + UNLI ALLNET Texts valid for 7 days"
+    },
+    {
+      "Id": 374,
+      "LoadPackage": "GIGA VIDEO 299",
+      "Keyword": "WGVD299",
+      "WTLKeyword": "GVD299",
+      "Denom": 299,
+      "Type": "Smart Bro",
+      "Description": null
+    }
+  ]
+}

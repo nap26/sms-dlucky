@@ -1,0 +1,50 @@
+{
+  "Result": "Success",
+  "PromoCodes": [
+    {
+      "Id": 254,
+      "LoadPackage": "Meralco Load 110",
+      "Keyword": "ILAW110",
+      "WTLKeyword": "ILW110",
+      "Denom": 110,
+      "Type": "Meralco",
+      "Description": null
+    },
+    {
+      "Id": 255,
+      "LoadPackage": "Meralco Load 220",
+      "Keyword": "ILAW220",
+      "WTLKeyword": "ILW220",
+      "Denom": 220,
+      "Type": "Meralco",
+      "Description": null
+    },
+    {
+      "Id": 256,
+      "LoadPackage": "Meralco Load 330",
+      "Keyword": "ILAW330",
+      "WTLKeyword": "ILW330",
+      "Denom": 330,
+      "Type": "Meralco",
+      "Description": null
+    },
+    {
+      "Id": 257,
+      "LoadPackage": "Meralco Load 550",
+      "Keyword": "ILAW550",
+      "WTLKeyword": "ILW550",
+      "Denom": 550,
+      "Type": "Meralco",
+      "Description": null
+    },
+    {
+      "Id": 258,
+      "LoadPackage": "Meralco Load 1110",
+      "Keyword": "ILAW1110",
+      "WTLKeyword": "ILW1110",
+      "Denom": 1110,
+      "Type": "Meralco",
+      "Description": null
+    }
+  ]
+}

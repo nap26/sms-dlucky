@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+
+            <TextView
+                android:id="@+id/label_promo"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Promo Code : All Out Surf 15"
+                android:layout_marginLeft="8dp"
+                android:textSize="16sp"
+                tools:ignore="MissingConstraints" />
+
+
+
+
+
+            <!--    <com.chivorn.smartmaterialspinner.SmartMaterialSpinner-->
+            <!--        android:id="@+id/sp_type"-->
+            <!--        android:layout_width="match_parent"-->
+            <!--        android:layout_height="wrap_content"-->
+            <!--        app:smsp_floatingLabelColor="#6200EE"-->
+            <!--        app:smsp_floatingLabelText="Type"-->
+            <!--        app:smsp_hint="Type"-->
+            <!--        app:smsp_hintColor="#FF818181"-->
+            <!--        app:smsp_itemColor="#512DA8"-->
+            <!--        app:smsp_itemListColor="#7C4DFF"-->
+            <!--        app:smsp_itemListHintBackgroundColor="#808080"-->
+            <!--        app:smsp_itemListHintColor="#FFFFFF"-->
+            <!--        app:smsp_multilineError="false"-->
+            <!--        app:smsp_selectedItemListColor="#818181" />-->
+
+            <!--    <com.chivorn.smartmaterialspinner.SmartMaterialSpinner-->
+            <!--        android:id="@+id/sp_contact"-->
+            <!--        android:layout_width="match_parent"-->
+            <!--        android:layout_height="wrap_content"-->
+            <!--        app:smsp_floatingLabelColor="#1976D2"-->
+            <!--        app:smsp_floatingLabelText="Contact"-->
+            <!--        app:smsp_hint="Contact"-->
+            <!--        app:smsp_hintColor="#388E3C"-->
+            <!--        app:smsp_itemColor="#512DA8"-->
+            <!--        app:smsp_itemListColor="#7C4DFF"-->
+            <!--        app:smsp_itemListHintBackgroundColor="#808080"-->
+            <!--        app:smsp_itemListHintColor="#FFFFFF"-->
+            <!--        app:smsp_multilineError="false"-->
+            <!--        app:smsp_selectedItemListColor="#FF5252" />-->
+
+
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_mobile_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                tools:ignore="MissingConstraints">
+
+
+                <EditText
+                    android:id="@+id/input_mobile_number_edit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:hint="@string/input_mobile_number"
+                    tools:ignore="MissingConstraints"/>
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+
+            <Button
+                android:id="@+id/btnSubmit"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:textColor="#ffffff"
+                android:text="Send"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

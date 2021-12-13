@@ -1,0 +1,580 @@
+{
+   "PromoCodes": [
+      {
+         "Id": 1,
+         "LoadPackage": "All Out Surf 15",
+         "Keyword": "WALLIN15",
+         "WTLKeyword": "AOS15",
+         "Denom": 15,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 2,
+         "LoadPackage": "All Out Surf 20",
+         "Keyword": "WALLIN20",
+         "WTLKeyword": "AOS20",
+         "Denom": 20,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 3,
+         "LoadPackage": "All Out Surf 30",
+         "Keyword": "WALLIN30",
+         "WTLKeyword": "AOS30",
+         "Denom": 30,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 4,
+         "LoadPackage": "All Out Surf 50",
+         "Keyword": "WALLIN50",
+         "WTLKeyword": "AOS50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 5,
+         "LoadPackage": "All Out Surf 99",
+         "Keyword": "WALLIN99",
+         "WTLKeyword": "AOS99",
+         "Denom": 99,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 6,
+         "LoadPackage": "All Out Surf 15",
+         "Keyword": "WALLOUT15",
+         "WTLKeyword": "AOS15",
+         "Denom": 15,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 7,
+         "LoadPackage": "All Out Surf 30",
+         "Keyword": "WALLOUT30",
+         "WTLKeyword": "AOS30",
+         "Denom": 30,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 8,
+         "LoadPackage": "All Out Surf 50",
+         "Keyword": "WALLOUT50",
+         "WTLKeyword": "AOS50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 9,
+         "LoadPackage": "All Out Surf 99",
+         "Keyword": "WALLOUT99",
+         "WTLKeyword": "AOS99",
+         "Denom": 99,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 10,
+         "LoadPackage": "All Text 10",
+         "Keyword": "W10",
+         "WTLKeyword": "A10",
+         "Denom": 10,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 16,
+         "LoadPackage": "Flexiload",
+         "Keyword": "MYLOAD",
+         "WTLKeyword": "MYLOAD",
+         "Denom": 0,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 17,
+         "LoadPackage": "Giga Surf 50 (SPP)",
+         "Keyword": "WGIGA50",
+         "WTLKeyword": "GSURF50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 18,
+         "LoadPackage": "Giga Surf 99 (SPP)",
+         "Keyword": "WGIGA99",
+         "WTLKeyword": "GSURF99",
+         "Denom": 99,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 19,
+         "LoadPackage": "Giga Surf 299 (SPP)",
+         "Keyword": "WSPPGIGA299",
+         "WTLKeyword": "GSURF299",
+         "Denom": 299,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 20,
+         "LoadPackage": "Giga Surf 399 (SPP)",
+         "Keyword": "WSPPGIGA399",
+         "WTLKeyword": "GSURF399",
+         "Denom": 399,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 21,
+         "LoadPackage": "Giga Surf 499 (SPP)",
+         "Keyword": "WSPPGIGA499",
+         "WTLKeyword": "GSURF499",
+         "Denom": 499,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 22,
+         "LoadPackage": "Giga Surf+ 549 (SPP)",
+         "Keyword": "WSPPGIGAPLUS549",
+         "WTLKeyword": "GPLUS549",
+         "Denom": 549,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 23,
+         "LoadPackage": "Giga Surf+ 649 (SPP)",
+         "Keyword": "WSPPGIGAPLUS649",
+         "WTLKeyword": "GPLUS649",
+         "Denom": 649,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 25,
+         "LoadPackage": "Giga Surf Plus 75 (SPP)",
+         "Keyword": "WSPPGIGAPLUS75",
+         "WTLKeyword": "GPLUS75",
+         "Denom": 75,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 26,
+         "LoadPackage": "Giga Surf Plus 149 (SPP)",
+         "Keyword": "WSPPGIGAPLUS149",
+         "WTLKeyword": "GPLUS149",
+         "Denom": 149,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 27,
+         "LoadPackage": "Giga Surf Plus 449",
+         "Keyword": "WSPPGIGAPLUS449",
+         "WTLKeyword": "GPLUS449",
+         "Denom": 449,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 30,
+         "LoadPackage": "Mega All-in 250",
+         "Keyword": "WAI250",
+         "WTLKeyword": "AI250",
+         "Denom": 250,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 31,
+         "LoadPackage": "Pantawid Load P5",
+         "Keyword": "W5",
+         "WTLKeyword": "5",
+         "Denom": 5,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 34,
+         "LoadPackage": "SMARTLoad 15",
+         "Keyword": "W15",
+         "WTLKeyword": "15",
+         "Denom": 15,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 35,
+         "LoadPackage": "SMARTLoad 20",
+         "Keyword": "WP20",
+         "WTLKeyword": "20",
+         "Denom": 20,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 36,
+         "LoadPackage": "SMARTLoad Economy (30.00)",
+         "Keyword": "W30",
+         "WTLKeyword": "30",
+         "Denom": 30,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 37,
+         "LoadPackage": "SMARTLoad 50",
+         "Keyword": "W50",
+         "WTLKeyword": "50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 38,
+         "LoadPackage": "SMARTLoad Regular (60.00)",
+         "Keyword": "W60",
+         "WTLKeyword": "60",
+         "Denom": 60,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 39,
+         "LoadPackage": "SMARTLoad 100",
+         "Keyword": "W100",
+         "WTLKeyword": "100",
+         "Denom": 100,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 40,
+         "LoadPackage": "SMARTLoad Extra (115.00)",
+         "Keyword": "W115",
+         "WTLKeyword": "115",
+         "Denom": 115,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 41,
+         "LoadPackage": "SMARTLoad 200",
+         "Keyword": "W200",
+         "WTLKeyword": "200",
+         "Denom": 200,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 42,
+         "LoadPackage": "SMARTLoad 300",
+         "Keyword": "W300",
+         "WTLKeyword": "300",
+         "Denom": 300,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 43,
+         "LoadPackage": "SMARTLoad 500",
+         "Keyword": "W500",
+         "WTLKeyword": "500",
+         "Denom": 500,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 44,
+         "LoadPackage": "SMARTLoad 1000",
+         "Keyword": "W1000",
+         "WTLKeyword": "1000",
+         "Denom": 1000,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 54,
+         "LoadPackage": "SULITIDD50",
+         "Keyword": "WSULITIDD50",
+         "WTLKeyword": "SULITIDD50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 55,
+         "LoadPackage": "SULITIDD100",
+         "Keyword": "WSULITIDD100",
+         "WTLKeyword": "SULITIDD100",
+         "Denom": 100,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 56,
+         "LoadPackage": "SULITIDD500",
+         "Keyword": "WSULITIDD500",
+         "WTLKeyword": "SULITIDD500",
+         "Denom": 500,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 57,
+         "LoadPackage": "SURFMAX 50 (MI/Bro) WEB",
+         "Keyword": "SURFMAX50",
+         "WTLKeyword": "SM50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 58,
+         "LoadPackage": "SURFMAX 299 (MI) WEB",
+         "Keyword": "SURFMAX299",
+         "WTLKeyword": "SM299",
+         "Denom": 299,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 59,
+         "LoadPackage": "SURFMAX 999 (MI) WEB",
+         "Keyword": "SURFMAX999",
+         "WTLKeyword": "SM999",
+         "Denom": 999,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 60,
+         "LoadPackage": "SURFMAXPLUS 50 (MI) WEB",
+         "Keyword": "SURFMAXPLUS50",
+         "WTLKeyword": "SMP50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 61,
+         "LoadPackage": "SURFMAXPLUS 299 (MI) WEB",
+         "Keyword": "SURFMAXPLUS299",
+         "WTLKeyword": "SMP299",
+         "Denom": 299,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 62,
+         "LoadPackage": "SURFMAXPLUS 995 (MI) WEB",
+         "Keyword": "SURFMAXPLUS995",
+         "WTLKeyword": "SMP995",
+         "Denom": 995,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 64,
+         "LoadPackage": "Unlimited Call and Text 25 (UCT 25)",
+         "Keyword": "WUCT25",
+         "WTLKeyword": "UCT25",
+         "Denom": 25,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 65,
+         "LoadPackage": "Unlimited Call and Text 350 (UCT 350)",
+         "Keyword": "WUCT350",
+         "WTLKeyword": "UCT350",
+         "Denom": 350,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 66,
+         "LoadPackage": "UCT 200",
+         "Keyword": "WUCT200",
+         "WTLKeyword": "UCT200",
+         "Denom": 200,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 68,
+         "LoadPackage": "Unli 50 (WEB)",
+         "Keyword": "WUNLI50",
+         "WTLKeyword": "UCT50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 69,
+         "LoadPackage": "Unli 100",
+         "Keyword": "WUCT100",
+         "WTLKeyword": "UCT100",
+         "Denom": 100,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 70,
+         "LoadPackage": "Wonder (Load10)",
+         "Keyword": "WLOAD10",
+         "WTLKeyword": "10",
+         "Denom": 10,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 317,
+         "LoadPackage": "Pasa Load P2",
+         "Keyword": "W2",
+         "WTLKeyword": "2",
+         "Denom": 2,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 347,
+         "LoadPackage": "GIGA VIDEO 50",
+         "Keyword": "WGVD50",
+         "WTLKeyword": "GVD50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant,  Cignal Play, 1 GB Open Access + UNLI ALLNET Texts valid for 3 days"
+      },
+      {
+         "Id": 348,
+         "LoadPackage": "GIGA VIDEO 99",
+         "Keyword": "WGVD99",
+         "WTLKeyword": "GVD99",
+         "Denom": 99,
+         "Type": "Smart",
+         "Description": null
+      },
+      {
+         "Id": 349,
+         "LoadPackage": "GIGA VIDEO 299",
+         "Keyword": "WGVD299",
+         "WTLKeyword": "GVD299",
+         "Denom": 299,
+         "Type": "Smart",
+         "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant,  Cignal Play, 4 GB Open Access + UNLI ALLNET Texts valid for 30 days"
+      },
+      {
+         "Id": 350,
+         "LoadPackage": "GIGA VIDEO 499",
+         "Keyword": "WGVD499",
+         "WTLKeyword": "GVD499",
+         "Denom": 499,
+         "Type": "Smart",
+         "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant,  Cignal Play, 8 GB Open Access + UNLI ALLNET Texts valid for 30 days"
+      },
+      {
+         "Id": 351,
+         "LoadPackage": "GIGA VIDEO+ 75",
+         "Keyword": "WGVT75",
+         "WTLKeyword": "GVT75",
+         "Denom": 75,
+         "Type": "Smart",
+         "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant,  Cignal Play, 1 GB Open Access + UNLI TRINET Calls + UNLI ALLNET Texts valid for 3 days"
+      },
+      {
+         "Id": 352,
+         "LoadPackage": "GIGA VIDEO+ 149",
+         "Keyword": "WGVT149",
+         "WTLKeyword": "GVT149",
+         "Denom": 149,
+         "Type": "Smart",
+         "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant,  Cignal Play, 2 GB Open Access + UNLI TRINET Calls + UNLI ALLNET Texts valid for 7 days"
+      },
+      {
+         "Id": 353,
+         "LoadPackage": "GIGA VIDEO+ 449",
+         "Keyword": "WGVT449",
+         "WTLKeyword": "WGVT449",
+         "Denom": 449,
+         "Type": "Smart",
+         "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant,  Cignal Play, 4 GB Open Access + UNLI TRINET Calls  + UNLI ALLNET Texts valid for 30 days"
+      },
+      {
+         "Id": 354,
+         "LoadPackage": "GIGA VIDEO+ ALLNET 549",
+         "Keyword": "WSPPGVA549",
+         "WTLKeyword": "SPPGVA549",
+         "Denom": 549,
+         "Type": "Smart",
+         "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant,  Cignal Play, 4 GB Open Access + UNLI ALLNET CALLS + UNLI ALLNET Texts valid for 30 days"
+      },
+      {
+         "Id": 355,
+         "LoadPackage": "GIGA STORIES 50",
+         "Keyword": "WSPPGIF50",
+         "WTLKeyword": "SPPGIF50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": "1 GB STORIES EVERY DAY for Tiktok, IG, FB, Twitter, 1 GB Open Access valid for 3 days"
+      },
+      {
+         "Id": 356,
+         "LoadPackage": "GIGA STORIES 99",
+         "Keyword": "WSPPGIF99",
+         "WTLKeyword": "SPPGIF99",
+         "Denom": 99,
+         "Type": "Smart",
+         "Description": "1 GB STORIES EVERY DAY for Tiktok, IG, FB, Twitter, 2 GB Open Access valid for 7 days"
+      },
+      {
+         "Id": 357,
+         "LoadPackage": "GIGA STORIES 299",
+         "Keyword": "WSPPGIF299",
+         "WTLKeyword": "SPPGIF299",
+         "Denom": 299,
+         "Type": "Smart",
+         "Description": "1 GB STORIES EVERY DAY for Tiktok, IG, FB, Twitter, 4 GB Open Access valid for 30 days"
+      },
+      {
+         "Id": 358,
+         "LoadPackage": "GIGA GAMES 50",
+         "Keyword": "WSPPGGM50",
+         "WTLKeyword": "SPPGGM50",
+         "Denom": 50,
+         "Type": "Smart",
+         "Description": "1 GB GAMES EVERY DAY for Mobile Legends, CoC, AoV, Clash Royale, FB Gaming, 1 GB Open Access valid for 3 days"
+      },
+      {
+         "Id": 359,
+         "LoadPackage": "GIGA GAMES 99",
+         "Keyword": "WSPPGGM99",
+         "WTLKeyword": "SPPGGM99",
+         "Denom": 99,
+         "Type": "Smart",
+         "Description": "1 GB GAMES EVERY DAY for Mobile Legends, CoC, AoV, Clash Royale, FB Gaming, 2 GB Open Access valid for 7 days"
+      },
+      {
+         "Id": 360,
+         "LoadPackage": "GIGA GAMES 299",
+         "Keyword": "WSPPGGM299",
+         "WTLKeyword": "SPPGGM299",
+         "Denom": 299,
+         "Type": "Smart",
+         "Description": "1 GB GAMES EVERY DAY for Mobile Legends, CoC, AoV, Clash Royale, FB Gaming, 4 GB Open Access valid for 30 days"
+      }
+   ]
+}

@@ -1,0 +1,239 @@
+{
+  "Result": "Success",
+  "PromoCodes": [
+    {
+      "Id": 204,
+      "LoadPackage": "Plan 200",
+      "Keyword": "SD200",
+      "WTLKeyword": "CIG200",
+      "Denom": 200,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 205,
+      "LoadPackage": "Plan 200",
+      "Keyword": "HD200",
+      "WTLKeyword": "CIG200",
+      "Denom": 200,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 206,
+      "LoadPackage": "Plan 300",
+      "Keyword": "WPLAN300",
+      "WTLKeyword": "CIG300",
+      "Denom": 300,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 207,
+      "LoadPackage": "Plan 450",
+      "Keyword": "WPLAN450",
+      "WTLKeyword": "CIG450",
+      "Denom": 450,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 208,
+      "LoadPackage": "Plan 500",
+      "Keyword": "WPLAN500",
+      "WTLKeyword": "CIG500",
+      "Denom": 500,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 209,
+      "LoadPackage": "Plan 600",
+      "Keyword": "WPLAN600",
+      "WTLKeyword": "CIG600",
+      "Denom": 600,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 210,
+      "LoadPackage": "Plan 800",
+      "Keyword": "WPLAN800",
+      "WTLKeyword": "CIG800",
+      "Denom": 800,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 211,
+      "LoadPackage": "Plan 1000",
+      "Keyword": "WPLAN1000",
+      "WTLKeyword": "CIG1000",
+      "Denom": 1000,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 215,
+      "LoadPackage": "SATLITE 49",
+      "Keyword": "WSL49",
+      "WTLKeyword": "SL49",
+      "Denom": 49,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 216,
+      "LoadPackage": "SATLITE 99",
+      "Keyword": "WSL99",
+      "WTLKeyword": "SL99",
+      "Denom": 99,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 217,
+      "LoadPackage": "SATLITE 199",
+      "Keyword": "WSL199",
+      "WTLKeyword": "SL199",
+      "Denom": 199,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 218,
+      "LoadPackage": "ELP Cignal Lite 75",
+      "Keyword": "WPPV75",
+      "WTLKeyword": "PPV75",
+      "Denom": 75,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 332,
+      "LoadPackage": "SLTV PACKAGE 500",
+      "Keyword": "WPPV500",
+      "WTLKeyword": "PPV500",
+      "Denom": 500,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 333,
+      "LoadPackage": "PAY-PER-VIEW 30",
+      "Keyword": "WPPV30",
+      "WTLKeyword": "PPV30",
+      "Denom": 30,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 334,
+      "LoadPackage": "PAY-PER-VIEW 249",
+      "Keyword": "WPPV249",
+      "WTLKeyword": "PPV249",
+      "Denom": 249,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 335,
+      "LoadPackage": "PAY-PER-VIEW 499",
+      "Keyword": "WPPV499",
+      "WTLKeyword": "PPV499",
+      "Denom": 499,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 336,
+      "LoadPackage": "PAY-PER-VIEW 650",
+      "Keyword": "WPPV650",
+      "WTLKeyword": "PPV650",
+      "Denom": 650,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 337,
+      "LoadPackage": "PAY-PER-VIEW 950",
+      "Keyword": "WPPV950",
+      "WTLKeyword": "PPV950",
+      "Denom": 950,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 338,
+      "LoadPackage": "PAY-PER-VIEW  30 MOVIE 1",
+      "Keyword": "WPPV30MOVIE1",
+      "WTLKeyword": "PPV30MOVIE1",
+      "Denom": 30,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 339,
+      "LoadPackage": "PAY-PER-VIEW 30 MOVIE 2",
+      "Keyword": "WPPV30MOVIE2",
+      "WTLKeyword": "WPPV30MOVIE2",
+      "Denom": 30,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 340,
+      "LoadPackage": "PAY-PER-VIEW 50 MOVIE 2",
+      "Keyword": "WPPV50MOV3",
+      "WTLKeyword": "PPV50MOV3",
+      "Denom": 50,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 341,
+      "LoadPackage": "PAY-PER-VIEW 100",
+      "Keyword": "WPPV100",
+      "WTLKeyword": "PPV100",
+      "Denom": 100,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 342,
+      "LoadPackage": "3 MONTHS PRP PLAN 300",
+      "Keyword": "W3MO300",
+      "WTLKeyword": "3MO300",
+      "Denom": 900,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 343,
+      "LoadPackage": "6 MONTHS PRP PLAN 300",
+      "Keyword": "W6MO300",
+      "WTLKeyword": "6MO300",
+      "Denom": 1800,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 344,
+      "LoadPackage": "12 MONTHS PRP PLAN 300",
+      "Keyword": "W12MO300",
+      "WTLKeyword": "12MO300",
+      "Denom": 3600,
+      "Type": "Cignal",
+      "Description": null
+    },
+    {
+      "Id": 346,
+      "LoadPackage": "Plan 175",
+      "Keyword": "WPLAN175",
+      "WTLKeyword": "CIG175",
+      "Denom": 175,
+      "Type": "Cignal",
+      "Description": null
+    }
+  ]
+}

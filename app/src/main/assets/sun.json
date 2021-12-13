@@ -1,0 +1,383 @@
+{
+  "Result": "Success",
+  "PromoCodes": [
+    {
+      "Id": 136,
+      "LoadPackage": "SUN Call & Text Combo 10",
+      "Keyword": "WRTSCTC10",
+      "WTLKeyword": "CTC10",
+      "Denom": 10,
+      "Type": "Sun",
+      "Description": "100 MB/day for FB, Non Stop Chat  + 10 Trinet Mins  + 100 Allnet Texts  valid 1 day"
+    },
+    {
+      "Id": 137,
+      "LoadPackage": "SUN Call & Text Combo 20",
+      "Keyword": "WRTSCTC20",
+      "WTLKeyword": "CTC20",
+      "Denom": 20,
+      "Type": "Sun",
+      "Description": "100 MB/day for FB, Non Stop Chat  +25 Trinet Mins   + 200 Allnet Texts  valid 3 day"
+    },
+    {
+      "Id": 138,
+      "LoadPackage": "SUN Call & Text Combo 30",
+      "Keyword": "WRTSCTC30",
+      "WTLKeyword": "CTC30",
+      "Denom": 30,
+      "Type": "Sun",
+      "Description": "100 MB/day for FB, 50 MB/day for Non Stop Chat + 40 Trinet Mins   + 300 Allnet Texts  valid 3 day"
+    },
+    {
+      "Id": 139,
+      "LoadPackage": "SUN Call & Text Combo 50",
+      "Keyword": "WRTSCTC50",
+      "WTLKeyword": "CTC50",
+      "Denom": 50,
+      "Type": "Sun",
+      "Description": "100 MB/day for FB, 50 MB/day for Non Stop Chat + 70 Trinet Mins   + 250 Sun Texts, 250 Allnet Texts   valid 5 day"
+    },
+    {
+      "Id": 141,
+      "LoadPackage": "SUN Calls & Text Unlimited 25",
+      "Keyword": "WRTSCTU25",
+      "WTLKeyword": "CTU25",
+      "Denom": 25,
+      "Type": "Sun",
+      "Description": "unli on-net calls + unli all-net SMS + FB (100MB/day) valid for 1 day"
+    },
+    {
+      "Id": 142,
+      "LoadPackage": "SUN Calls & Text Unlimited 30",
+      "Keyword": "WRTSCTU30",
+      "WTLKeyword": "CTU30",
+      "Denom": 30,
+      "Type": "Sun",
+      "Description": "unli tri-net calls + unli all-net SMS + FB (100 MB/day) + nonstop chat (Viber, WeChat, LINE, FB Messenger, Whatsapp, Kakaotalk, Telegram) valid for 1 day"
+    },
+    {
+      "Id": 143,
+      "LoadPackage": "SUN Calls & Text Unlimited 50",
+      "Keyword": "WRTSCTU50",
+      "WTLKeyword": "CTU50",
+      "Denom": 50,
+      "Type": "Sun",
+      "Description": "500 MB  + Unli Trinet Calls   + Unli Allnet Texts   valid 5 day"
+    },
+    {
+      "Id": 145,
+      "LoadPackage": "SUN Calls & Text Unlimited 150",
+      "Keyword": "WRTSCTU150",
+      "WTLKeyword": "CTU150",
+      "Denom": 150,
+      "Type": "Sun",
+      "Description": "unli tri-net calls + unli all-net SMS + 500mb Open access + nonstop chat (Viber, WeChat, LINE, FB Messenger, Whatsapp, Kakaotalk, Telegram) valid for 7 days"
+    },
+    {
+      "Id": 148,
+      "LoadPackage": "SUN Regular Load 10",
+      "Keyword": "WSOTH10",
+      "WTLKeyword": "S10",
+      "Denom": 10,
+      "Type": "Sun",
+      "Description": "SUN Php10 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 149,
+      "LoadPackage": "SUN Regular Load 15",
+      "Keyword": "WSOTH15",
+      "WTLKeyword": "S15",
+      "Denom": 15,
+      "Type": "Sun",
+      "Description": "SUN Php15 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 150,
+      "LoadPackage": "SUN Regular Load 20",
+      "Keyword": "WSOTH20",
+      "WTLKeyword": "S20",
+      "Denom": 20,
+      "Type": "Sun",
+      "Description": "SUN Php20 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 151,
+      "LoadPackage": "SUN Regular Load 25",
+      "Keyword": "WSOTH25",
+      "WTLKeyword": "S25",
+      "Denom": 25,
+      "Type": "Sun",
+      "Description": "SUN Php25 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 152,
+      "LoadPackage": "SUN Regular Load 30",
+      "Keyword": "WSOTH30",
+      "WTLKeyword": "S30",
+      "Denom": 30,
+      "Type": "Sun",
+      "Description": "SUN Php30 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 153,
+      "LoadPackage": "SUN Regular Load 50",
+      "Keyword": "WSOTH50",
+      "WTLKeyword": "S50",
+      "Denom": 50,
+      "Type": "Sun",
+      "Description": "SUN Php50 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 154,
+      "LoadPackage": "SUN Regular Load 75",
+      "Keyword": "WSOTH75",
+      "WTLKeyword": "S75",
+      "Denom": 75,
+      "Type": "Sun",
+      "Description": "SUN Php75 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 155,
+      "LoadPackage": "SUN Regular Load 100",
+      "Keyword": "WSOTH100",
+      "WTLKeyword": "S100",
+      "Denom": 100,
+      "Type": "Sun",
+      "Description": "SUN Php100 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 156,
+      "LoadPackage": "SUN Regular Load 150",
+      "Keyword": "WSOTH150",
+      "WTLKeyword": "S150",
+      "Denom": 150,
+      "Type": "Sun",
+      "Description": "SUN Php150 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 157,
+      "LoadPackage": "SUN Regular Load 300",
+      "Keyword": "WSOTH300",
+      "WTLKeyword": "S300",
+      "Denom": 300,
+      "Type": "Sun",
+      "Description": "SUN Php300 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 158,
+      "LoadPackage": "SUN Regular Load 500",
+      "Keyword": "WSOTH500",
+      "WTLKeyword": "S500",
+      "Denom": 500,
+      "Type": "Sun",
+      "Description": "SUN Php500 Regular Load valid for 365 days"
+    },
+    {
+      "Id": 162,
+      "LoadPackage": "SUN Text Unlimited 20",
+      "Keyword": "WRTSTU20",
+      "WTLKeyword": "TU20",
+      "Denom": 20,
+      "Type": "Sun",
+      "Description": "100 MB/day for FB, 50 MB/day for Non Stop Chat + 25 Trinet Mins calls + 200 Allnet Texts  valid for 3 days"
+    },
+    {
+      "Id": 163,
+      "LoadPackage": "SUN Text Unlimited 50",
+      "Keyword": "WRTSTU50",
+      "WTLKeyword": "TU50",
+      "Denom": 50,
+      "Type": "Sun",
+      "Description": "100 MB/day for FB, 50 MB/day for Non Stop Chat + 60 Trinet Mins calls + Unli Allnet Texts  valid for 10 days"
+    },
+    {
+      "Id": 165,
+      "LoadPackage": "SUN Text Unlimited 150",
+      "Keyword": "WRTSTU150",
+      "WTLKeyword": "TU150",
+      "Denom": 150,
+      "Type": "Sun",
+      "Description": "100 MB/day for FB, 50 MB/day for Non Stop Chat + 300 Trinet Mins calls + Unli Allnet Texts  valid for 30 days"
+    },
+    {
+      "Id": 166,
+      "LoadPackage": "SUN Text Unlimited 200",
+      "Keyword": "WRTSTU200",
+      "WTLKeyword": "TU200",
+      "Denom": 200,
+      "Type": "Sun",
+      "Description": "100 MB/day for FB, 50 MB/day for Non Stop Chat + 300 Quadnet Mins calls + Unli Allnet Texts  valid for 30 days"
+    },
+    {
+      "Id": 169,
+      "LoadPackage": "SUN Todo IDD Tawag 50",
+      "Keyword": "WRTSTDIDD50",
+      "WTLKeyword": "IDD50",
+      "Denom": 50,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 170,
+      "LoadPackage": "SUN Todo IDD Tawag 100",
+      "Keyword": "WRTSDIDD1H",
+      "WTLKeyword": "IDD100",
+      "Denom": 100,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 171,
+      "LoadPackage": "SUN Todo IDD Tawag 300",
+      "Keyword": "WRTSTODOIDD300",
+      "WTLKeyword": "IDD300",
+      "Denom": 300,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 175,
+      "LoadPackage": "Giga Surf 50 (SUN)",
+      "Keyword": "WSUNGIGA50",
+      "WTLKeyword": "SUNGIGA50",
+      "Denom": 50,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 176,
+      "LoadPackage": "Giga Surf 70 (SUN)",
+      "Keyword": "WSUNGIGA70",
+      "WTLKeyword": "SUNGIGA70",
+      "Denom": 70,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 177,
+      "LoadPackage": "Giga Surf 99 (SUN)",
+      "Keyword": "WSUNGIGA99",
+      "WTLKeyword": "SUNGIGA99",
+      "Denom": 99,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 178,
+      "LoadPackage": "Giga Surf 299 (SUN)",
+      "Keyword": "WSUNGIGA299",
+      "WTLKeyword": "SUNGIGA299",
+      "Denom": 299,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 179,
+      "LoadPackage": "Giga Surf 399 (SUN)",
+      "Keyword": "WSUNGIGA399",
+      "WTLKeyword": "SUNGIGA399",
+      "Denom": 399,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 180,
+      "LoadPackage": "Giga Surf 499 (SUN)",
+      "Keyword": "WSUNGIGA499",
+      "WTLKeyword": "SUNGIGA499",
+      "Denom": 499,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 181,
+      "LoadPackage": "GigaSurf+ 449 (SUN)",
+      "Keyword": "WSUNGIGAPLUS449",
+      "WTLKeyword": "SUNGIGAP449",
+      "Denom": 449,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 182,
+      "LoadPackage": "GigaSurf+ 549 (SUN)",
+      "Keyword": "WSUNGIGAPLUS549",
+      "WTLKeyword": "SUNGIGAP549",
+      "Denom": 549,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 183,
+      "LoadPackage": "GigaSurf+ 649 (SUN)",
+      "Keyword": "WSUNGIGAPLUS649",
+      "WTLKeyword": "SUNGIGAP649",
+      "Denom": 649,
+      "Type": "Sun",
+      "Description": null
+    },
+    {
+      "Id": 365,
+      "LoadPackage": "SULIT SURF PLUS 20",
+      "Keyword": "WSSPP20",
+      "WTLKeyword": "SSPP20",
+      "Denom": 20,
+      "Type": "SUN",
+      "Description": "Unli Trinet Calls + 300 MB open access data validity 2 days"
+    },
+    {
+      "Id": 366,
+      "LoadPackage": "SULIT SURF PLUS 50",
+      "Keyword": "WRTSCTU50",
+      "WTLKeyword": "RTSCTU50",
+      "Denom": 50,
+      "Type": "SUN",
+      "Description": "Unli Trinet Calls + 500 MB open access data validity 3 days"
+    },
+    {
+      "Id": 367,
+      "LoadPackage": "SULIT SURF PLUS 99",
+      "Keyword": "WSSP99",
+      "WTLKeyword": "SSP99",
+      "Denom": 99,
+      "Type": "SUN",
+      "Description": "Unli Trinet Calls, 30 Allnet Mins + 1GB open access data validity 7 days"
+    },
+    {
+      "Id": 368,
+      "LoadPackage": "SULIT SURF PLUS 249",
+      "Keyword": "WSSP249",
+      "WTLKeyword": "SSP249",
+      "Denom": 249,
+      "Type": "SUN",
+      "Description": "Unli Trinet Calls, 60 Allnet Mins + 2GB open access data validity 30 days"
+    },
+    {
+      "Id": 369,
+      "LoadPackage": "GIGA VIDEO 50",
+      "Keyword": "WGVD50",
+      "WTLKeyword": "GVD50",
+      "Denom": 50,
+      "Type": "SUN",
+      "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant, Cignal Play + 1GB open access data +  UNLI ALLNET Texts valid for  3 days"
+    },
+    {
+      "Id": 370,
+      "LoadPackage": "GIGA VIDEO 99",
+      "Keyword": "WGVD99",
+      "WTLKeyword": "GVD99",
+      "Denom": 99,
+      "Type": "SUN",
+      "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant, Cignal Play + 2GB open access data  valid for  7 days"
+    },
+    {
+      "Id": 371,
+      "LoadPackage": "GIGA VIDEO 299",
+      "Keyword": "WGVD299",
+      "WTLKeyword": "GVD299",
+      "Denom": 299,
+      "Type": "SUN",
+      "Description": "1 GB VIDEO EVERY DAY for YouTube, NBA, iWant, Cignal Play + 4GB open access data  valid for  30 days"
+    }
+  ]
+}

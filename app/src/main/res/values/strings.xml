@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dlucky3 SMS</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="input_amount">Amount</string>
+    <string name="input_mobile_number">Mobile Number</string>
+
+    <string-array name="type">
+    <item>TOPUP_RETAILER</item>
+    <item>DEBIT_TRANSFER</item>
+    <item>DEBIT_MEMO</item>
+    <item>CREDIT_MEMO</item>
+        <item>TOPUP_SUBSCRIBER</item></string-array>
+
+</resources>

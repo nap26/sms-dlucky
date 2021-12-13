@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="#FAFAFA"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:gravity="top"
+        android:id="@+id/llTop"
+        >
+
+        <include layout="@layout/dashboard" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FAFAFA"
+        android:layout_below="@+id/llTop">
+        <RelativeLayout
+            android:id="@+id/frameLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+            <ImageButton
+                android:id="@+id/imageButton"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+
+                android:background="@drawable/smart_bg"
+                android:src="@drawable/smart_small" />
+
+            <ImageButton
+                android:layout_marginTop="20dp"
+                android:id="@+id/imageButtonSmartBro"
+                android:layout_below="@+id/imageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+
+                android:background="@drawable/smart_bg"
+                android:src="@drawable/smart_bro_final" />
+
+            <ImageButton
+                android:layout_marginTop="20dp"
+                android:id="@+id/imageButtonTalkNText"
+                android:layout_below="@+id/imageButtonSmartBro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+
+                android:background="@drawable/smart_bg"
+                android:src="@drawable/talkntext" />
+
+
+            <ImageButton
+                android:layout_marginTop="20dp"
+                android:id="@+id/imageButtonSun"
+                android:layout_below="@+id/imageButtonTalkNText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+
+                android:background="@drawable/smart_bg"
+                android:src="@drawable/sun_final" />
+
+
+            <ImageButton
+                android:layout_marginTop="20dp"
+                android:id="@+id/imageButtonMeralco"
+                android:layout_below="@+id/imageButtonSun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/smart_bg"
+                android:src="@drawable/meralco_final" />
+
+            <ImageButton
+                android:layout_marginTop="20dp"
+                android:id="@+id/imageButtonCignal"
+                android:layout_below="@+id/imageButtonMeralco"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/smart_bg"
+                android:src="@drawable/cignal" />
+
+
+            <ImageButton
+                android:layout_marginTop="20dp"
+                android:id="@+id/imageButtonPldt"
+                android:layout_below="@+id/imageButtonCignal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/smart_bg"
+                android:src="@drawable/pldt" />
+
+
+
+        </RelativeLayout>
+
+
+
+    </ScrollView>
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:visibility="gone"
+        app:srcCompat="@android:drawable/ic_input_add" />
+
+</RelativeLayout>
